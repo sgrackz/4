@@ -10,16 +10,18 @@ article h1 {
     background-color: red;
 }
 
+<a>
 #author-name-and-date {
     font-family: Arial;
     font-size: 12px;
     color: lightgray;
+</a>
 }
 
 article p, article ol {
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
-    color: gray;
+    color: rgb(128,128,128);
 }
 
 article a {
